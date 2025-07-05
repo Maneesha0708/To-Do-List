@@ -22,7 +22,7 @@ To run the project locally:
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/Maneesha0708/To-do-list.git
+   git clone https://github.com/Maneesha0708/To-Do-List.git
 Open the index.html file in your preferred browser.
 
 No installation or server setup required.
